@@ -1,0 +1,2 @@
+# klavaro
+klavaro - inscript (Devanagari) 
