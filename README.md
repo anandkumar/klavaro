@@ -18,7 +18,7 @@ If there are more please report in the [issues](https://github.com/anandkumar/kl
 To make these files work copy and paste them as mentioned below:
 
 ### Linux (Ubuntu/Arch)
-Copy all files with extensions .kbd, .words and .paragraphs in `~/.config/klavaro` OR in `/usr/share/klavaro/ar.words` for system-wide.
+Copy all files with extensions .kbd, .words and .paragraphs in `~/.config/klavaro/` for user only OR in `/usr/share/klavaro/` for system-wide.
 
 ### Windows
 Copy all files with extensions .kbd, .words and .paragraphs in`\Program Files (x86)\Klavaro-2.00c\share\klavaro`
